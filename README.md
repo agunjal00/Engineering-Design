@@ -24,8 +24,8 @@
 <strong>Weather Monitoring Device</strong>
 
 > Configured a system of sensors that measures humidity, temperature, CO2 levels, tVOCs, and light intensity of any environment
-> Developed Arduino code that takes sensor readings and uploads them to an IoT network 
-> Designed an enclosure for the system on Solidworks
-> 3D printed the system enclosure and assembled a prototype
+ Developed Arduino code that takes sensor readings and uploads them to an IoT network 
+ Designed an enclosure for the system on Solidworks
+ 3D printed the system enclosure and assembled a prototype
 
 --------------------------------
