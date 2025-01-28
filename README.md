@@ -27,6 +27,5 @@
   <li>Developed Arduino code that takes sensor readings and uploads them to an IoT network </li>
   <li>Designed an enclosure for the system on Solidworks </li>
   <li>3D printed the system enclosure and assembled a prototype</li>
->
 
 --------------------------------
