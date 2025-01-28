@@ -20,3 +20,10 @@
 --------------------------------
 
 <img width="176" alt="image" src="https://github.com/user-attachments/assets/7900b2ee-0cbf-4603-a900-23f1213101d8" />
+<strong>Weather Monitoring Device</strong>
+> Configured a system of sensors that measures humidity, temperature, CO2 levels, tVOCs, and light intensity of any environment
+> Developed Arduino code that takes sensor readings and uploads them to an IoT network 
+> Designed an enclosure for the system on Solidworks
+> 3D printed the system enclosure and assembled a prototype
+
+--------------------------------
