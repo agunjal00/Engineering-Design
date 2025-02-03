@@ -13,10 +13,10 @@
 <ul>
   <strong>Projects</strong>
   
-  <li>Project 1</li>
-  <li>Project 2</li>
-  <li>Project 3</li>
-  <li>Project 4</li>
+  <em>Project 1</li>
+  <em>Project 2</li>
+  <em>Project 3</li>
+  <em>Project 4</li>
 </ul>
 
 --------------------------------
