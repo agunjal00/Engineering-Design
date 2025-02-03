@@ -5,7 +5,6 @@
   
   <https://sites.google.com/stevens.edu/designviprojectsite/home>
 
-    ----------------------------------------------
   <strong>Labs</strong>
   
   <li>Lab 1</li>
