@@ -3,6 +3,7 @@
 
 This lab familiarized me with the Gitbash terminal environment. I entered various commands and got the following results.
 These are the commands I entered:
+```
 $ hostname
 $ env
 $ ps
@@ -25,7 +26,7 @@ $ uname -a
 $ ifconfig
 $ ping localhost
 $ netstat
-
+```
 
 
 ## hostname
