@@ -3,7 +3,7 @@
   
   ---------------------------------
   
-  <https://sites.google.com/stevens.edu/designviprojectsite/home>
+  <https://sites.google.com/stevens.edu/ece-322-ptlt/Home>
 
   <strong>Labs</strong>
   
@@ -36,5 +36,14 @@
 > <li>Developed Arduino code that takes sensor readings and uploads them to an IoT network </li>
 > <li>Designed an enclosure for the system on Solidworks </li>
 > <li>3D printed the system enclosure and assembled a prototype</li>
+
+```
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
 
 --------------------------------
