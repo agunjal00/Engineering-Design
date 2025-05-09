@@ -18,7 +18,7 @@ $ gtkwave ha.vcd
 ```
 
     
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/user-attachments/assets/a6cc42b1-af3e-4418-94b5-11cd4865e489)
 
 
 ## 4to1 Multiplexer
