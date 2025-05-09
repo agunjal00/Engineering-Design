@@ -13,8 +13,8 @@ $ python3 client.py
 After updating the cloned repository using gitpull, I changed the directory to lesson 5 and ran subcpu.py on one terminal and pubcpu.py on another. subcpu.py acts as a subscriber and waits to recieve CPU usage data. pubcpu.py acts as a publisher and collects CPU usage data and sends it via mqtt. 
 
 ## subcpu.py (Terminal 1)
-![App Screenshot]()
+![App Screenshot](https://github.com/user-attachments/assets/67955420-efa4-4189-a7fe-959f1442b549)
 ## pubcpu.py (Terminal 2)
-![App Screenshot]()
+![App Screenshot](https://github.com/user-attachments/assets/76416f76-8f2d-4640-8c29-2358ffacfbb5)
 
 
