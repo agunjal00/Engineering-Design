@@ -32,4 +32,4 @@ $ gtkwave mux.vcd
 ```
 
     
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/user-attachments/assets/7d070c2c-3990-44c0-a6c0-e37748219a28)
